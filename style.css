@@ -57,6 +57,10 @@ nav ul li a {
     text-decoration: none;
     
 }
+.right ul {
+  gap: 0.5px;
+  padding: 0.5px;
+}
  li:hover{
     color: rgb(251, 251, 251);
     background-color: aqua;
